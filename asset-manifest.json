@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//shanikaediriweera.github.io/absence-manager/static/css/main.073c9b0a.css",
+    "main.js": "//shanikaediriweera.github.io/absence-manager/static/js/main.663de085.js",
+    "static/js/787.74248bcf.chunk.js": "//shanikaediriweera.github.io/absence-manager/static/js/787.74248bcf.chunk.js",
+    "index.html": "//shanikaediriweera.github.io/absence-manager/index.html",
+    "main.073c9b0a.css.map": "//shanikaediriweera.github.io/absence-manager/static/css/main.073c9b0a.css.map",
+    "main.663de085.js.map": "//shanikaediriweera.github.io/absence-manager/static/js/main.663de085.js.map",
+    "787.74248bcf.chunk.js.map": "//shanikaediriweera.github.io/absence-manager/static/js/787.74248bcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.663de085.js"
+  ]
+}
